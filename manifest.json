@@ -1,0 +1,9 @@
+{
+  "name": "Fuel Fleet Management",
+  "short_name": "FuelFleet",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e5",
+  "icons": []
+}

@@ -1,0 +1,8 @@
+
+{
+  "name": "FUEL&FLEET - Advanced Fuel Management System",
+  "description": "A comprehensive fuel management and logistics ERP for power plants and fleets, featuring role-based access, supplier reconciliation, and real-time plant performance monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
